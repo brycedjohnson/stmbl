@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:stmbl_4.0-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -33,6 +33,7 @@ F 7 "" H 2900 3350 30  0001 C CNN "Source"
 F 8 "1%" H 2900 3350 30  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C37158" H 2900 3350 50  0001 C CNN "LCSC"
 	1    2900 3350
 	1    0    0    -1  
 $EndComp
@@ -51,6 +52,7 @@ F 7 "" H 2900 3750 30  0001 C CNN "Source"
 F 8 "1%" H 2900 3750 30  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C37158" H 2900 3750 50  0001 C CNN "LCSC"
 	1    2900 3750
 	1    0    0    -1  
 $EndComp
@@ -69,6 +71,7 @@ F 7 "" H 2900 4250 30  0001 C CNN "Source"
 F 8 "1%" H 2900 4250 30  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C23018" H 2900 4250 50  0001 C CNN "LCSC"
 	1    2900 4250
 	1    0    0    -1  
 $EndComp
@@ -102,6 +105,7 @@ F 7 "" H 3700 3350 30  0001 C CNN "Source"
 F 8 "1%" H 3700 3350 30  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C37158" H 3700 3350 50  0001 C CNN "LCSC"
 	1    3700 3350
 	1    0    0    -1  
 $EndComp
@@ -120,6 +124,7 @@ F 7 "" H 3700 3750 30  0001 C CNN "Source"
 F 8 "1%" H 3700 3750 30  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C37158" H 3700 3750 50  0001 C CNN "LCSC"
 	1    3700 3750
 	1    0    0    -1  
 $EndComp
@@ -138,6 +143,7 @@ F 7 "" H 3700 4250 30  0001 C CNN "Source"
 F 8 "1%" H 3700 4250 30  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C23018" H 3700 4250 50  0001 C CNN "LCSC"
 	1    3700 4250
 	1    0    0    -1  
 $EndComp
@@ -171,6 +177,7 @@ F 7 "" H 4500 3350 30  0001 C CNN "Source"
 F 8 "1%" H 4500 3350 30  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C37158" H 4500 3350 50  0001 C CNN "LCSC"
 	1    4500 3350
 	1    0    0    -1  
 $EndComp
@@ -189,6 +196,7 @@ F 7 "" H 4500 3750 30  0001 C CNN "Source"
 F 8 "1%" H 4500 3750 30  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C37158" H 4500 3750 50  0001 C CNN "LCSC"
 	1    4500 3750
 	1    0    0    -1  
 $EndComp
@@ -207,6 +215,7 @@ F 7 "" H 4500 4250 30  0001 C CNN "Source"
 F 8 "1%" H 4500 4250 30  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C23018" H 4500 4250 50  0001 C CNN "LCSC"
 	1    4500 4250
 	1    0    0    -1  
 $EndComp
@@ -238,6 +247,7 @@ F 7 "" H 5400 3350 30  0001 C CNN "Source"
 F 8 "1%" H 5400 3350 30  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C37158" H 5400 3350 50  0001 C CNN "LCSC"
 	1    5400 3350
 	1    0    0    -1  
 $EndComp
@@ -256,6 +266,7 @@ F 7 "" H 5400 3750 30  0001 C CNN "Source"
 F 8 "1%" H 5400 3750 30  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C37158" H 5400 3750 50  0001 C CNN "LCSC"
 	1    5400 3750
 	1    0    0    -1  
 $EndComp
@@ -274,6 +285,7 @@ F 7 "" H 5400 4250 30  0001 C CNN "Source"
 F 8 "1%" H 5400 4250 30  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C23018" H 5400 4250 50  0001 C CNN "LCSC"
 	1    5400 4250
 	1    0    0    -1  
 $EndComp
@@ -303,6 +315,7 @@ F 7 "" H 2700 4250 60  0001 C CNN "Source"
 F 8 "X5R" H 2700 4250 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C1647" H 2700 4250 50  0001 C CNN "LCSC"
 	1    2700 4250
 	1    0    0    -1  
 $EndComp
@@ -321,6 +334,7 @@ F 7 "" H 3500 4250 60  0001 C CNN "Source"
 F 8 "X5R" H 3500 4250 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C1647" H 3500 4250 50  0001 C CNN "LCSC"
 	1    3500 4250
 	1    0    0    -1  
 $EndComp
@@ -339,6 +353,7 @@ F 7 "" H 4300 4250 60  0001 C CNN "Source"
 F 8 "X5R" H 4300 4250 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C1647" H 4300 4250 50  0001 C CNN "LCSC"
 	1    4300 4250
 	1    0    0    -1  
 $EndComp
@@ -357,6 +372,7 @@ F 7 "" H 5200 4250 60  0001 C CNN "Source"
 F 8 "X5R" H 5200 4250 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C1647" H 5200 4250 50  0001 C CNN "LCSC"
 	1    5200 4250
 	1    0    0    -1  
 $EndComp
