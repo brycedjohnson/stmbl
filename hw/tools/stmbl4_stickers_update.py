@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+#!/usr/bin/python
+# coding=utf-8
+import subprocess
+
+
+hw_release = "STMBL 4.3"
+out_filename = "stmbl4_stickers.svg"
+
+template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15848,7 +15856,7 @@
          inkscape:label="hw_release"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          id="g217"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -15872,7 +15880,7 @@
          xml:space="preserve"
          inkscape:label="git_hash"><tspan
            x="35.134766"
-           y="2.2730262"><tspan>1f3debee</tspan></tspan></text>
+           y="2.2730262"><tspan>GIT_HASH</tspan></tspan></text>
     </g>
     <text
        style="font-size:1.76389px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect268);"
@@ -16482,7 +16490,7 @@
          xml:space="preserve"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          style="stroke-width:1.00083"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -16506,7 +16514,7 @@
          style="font-size:2.29306px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect82-9-1);stroke-width:1.00083;"
          transform="translate(0.97642626,6.6366676)"><tspan
            x="35.134766"
-           y="2.2730262"><tspan>1f3debee</tspan></tspan></text>
+           y="2.2730262"><tspan>GIT_HASH</tspan></tspan></text>
     </g>
     <g
        style="stroke-width:1.02472"
@@ -17158,7 +17166,7 @@
          xml:space="preserve"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          style="stroke-width:1.00083"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -17182,7 +17190,7 @@
          style="font-size:2.29306px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect82-9-5);stroke-width:1.00083;"
          transform="translate(0.97642626,6.6366676)"><tspan
            x="35.134766"
-           y="2.2730262"><tspan>1f3debee</tspan></tspan></text>
+           y="2.2730262"><tspan>GIT_HASH</tspan></tspan></text>
     </g>
     <text
        transform="translate(-3.5124017,61.681218)"
@@ -17792,7 +17800,7 @@
          inkscape:label="hw_release"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          id="g217-1-8"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -17816,7 +17824,7 @@
          xml:space="preserve"
          inkscape:label="git_hash"><tspan
            x="35.134766"
-           y="2.2730262"><tspan>1f3debee</tspan></tspan></text>
+           y="2.2730262"><tspan>GIT_HASH</tspan></tspan></text>
     </g>
     <g
        transform="matrix(1,0,0,0.95233556,67.865104,30.540175)"
@@ -18475,7 +18483,7 @@
          xml:space="preserve"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          style="stroke-width:1.00083"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -18500,7 +18508,7 @@
          transform="translate(0.97642626,6.6366676)"><tspan
            x="35.134766"
            y="2.2730262"><tspan
-             style="stroke-width:1.00083">1f3debee</tspan></tspan></text>
+             style="stroke-width:1.00083">GIT_HASH</tspan></tspan></text>
     </g>
     <text
        transform="matrix(1,0,0,1.0000071,-3.5124007,56.947532)"
@@ -19131,7 +19139,7 @@
          inkscape:label="hw_release"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          id="g217-1-4"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -19156,7 +19164,7 @@
          inkscape:label="git_hash"><tspan
            x="35.134766"
            y="2.2730262"><tspan
-             style="stroke-width:1.00083">1f3debee</tspan></tspan></text>
+             style="stroke-width:1.00083">GIT_HASH</tspan></tspan></text>
     </g>
     <g
        transform="matrix(1,0,0,0.95234233,67.865105,56.590137)"
@@ -19827,7 +19835,7 @@
          inkscape:label="hw_release"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          id="g217-7-7"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -19852,7 +19860,7 @@
          inkscape:label="git_hash"><tspan
            x="35.134766"
            y="2.2730262"><tspan
-             style="stroke-width:1.00083">1f3debee</tspan></tspan></text>
+             style="stroke-width:1.00083">GIT_HASH</tspan></tspan></text>
     </g>
     <text
        style="font-size:1.76389px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect268-1-9);stroke-width:0.999996;"
@@ -20483,7 +20491,7 @@
          xml:space="preserve"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          style="stroke-width:1.00083"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -20508,7 +20516,7 @@
          transform="translate(0.97642626,6.6366676)"><tspan
            x="35.134766"
            y="2.2730262"><tspan
-             style="stroke-width:1.00083">1f3debee</tspan></tspan></text>
+             style="stroke-width:1.00083">GIT_HASH</tspan></tspan></text>
     </g>
     <g
        style="stroke-width:1.02472"
@@ -21172,7 +21180,7 @@
          xml:space="preserve"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          style="stroke-width:1.00083"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -21196,7 +21204,7 @@
          style="font-size:2.29306px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect82-9-37);stroke-width:1.00083;"
          transform="translate(0.97642626,6.6366676)"><tspan
            x="35.134766"
-           y="2.2730262"><tspan>1f3debee</tspan></tspan></text>
+           y="2.2730262"><tspan>GIT_HASH</tspan></tspan></text>
     </g>
     <text
        transform="translate(-3.5124009,109.04757)"
@@ -21806,7 +21814,7 @@
          inkscape:label="hw_release"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          id="g217-1-44"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -21830,7 +21838,7 @@
          xml:space="preserve"
          inkscape:label="git_hash"><tspan
            x="35.134766"
-           y="2.2730262"><tspan>1f3debee</tspan></tspan></text>
+           y="2.2730262"><tspan>GIT_HASH</tspan></tspan></text>
     </g>
     <g
        transform="matrix(1,0,0,0.95233553,67.865105,108.69017)"
@@ -22482,7 +22490,7 @@
          inkscape:label="hw_release"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          id="g217-7-5"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -22506,7 +22514,7 @@
          xml:space="preserve"
          inkscape:label="git_hash"><tspan
            x="35.134766"
-           y="2.2730262"><tspan>1f3debee</tspan></tspan></text>
+           y="2.2730262"><tspan>GIT_HASH</tspan></tspan></text>
     </g>
     <text
        style="font-size:1.76389px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect268-1-0);"
@@ -23116,7 +23124,7 @@
          xml:space="preserve"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          style="stroke-width:1.00083"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -23140,7 +23148,7 @@
          style="font-size:2.29306px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect82-9-1-5-2);stroke-width:1.00083;"
          transform="translate(0.97642626,6.6366676)"><tspan
            x="35.134766"
-           y="2.2730262"><tspan>1f3debee</tspan></tspan></text>
+           y="2.2730262"><tspan>GIT_HASH</tspan></tspan></text>
     </g>
     <g
        style="stroke-width:1.02472"
@@ -23799,7 +23807,7 @@
          inkscape:label="hw_release"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          id="g217-4-1"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -23824,7 +23832,7 @@
          inkscape:label="git_hash"><tspan
            x="35.134766"
            y="2.2730262"><tspan
-             style="stroke-width:1.00083">1f3debee</tspan></tspan></text>
+             style="stroke-width:1.00083">GIT_HASH</tspan></tspan></text>
     </g>
     <text
        style="font-size:1.76389px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect268-6-1);stroke-width:0.999996;"
@@ -24455,7 +24463,7 @@
          xml:space="preserve"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          style="stroke-width:1.00083"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -24480,7 +24488,7 @@
          transform="translate(0.97642626,6.6366676)"><tspan
            x="35.134766"
            y="2.2730262"><tspan
-             style="stroke-width:1.00083">1f3debee</tspan></tspan></text>
+             style="stroke-width:1.00083">GIT_HASH</tspan></tspan></text>
     </g>
     <g
        style="stroke-width:1.02472"
@@ -25151,7 +25159,7 @@
          xml:space="preserve"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          style="stroke-width:1.00083"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -25176,7 +25184,7 @@
          transform="translate(0.97642626,6.6366676)"><tspan
            x="35.134766"
            y="2.2730262"><tspan
-             style="stroke-width:1.00083">1f3debee</tspan></tspan></text>
+             style="stroke-width:1.00083">GIT_HASH</tspan></tspan></text>
     </g>
     <text
        transform="matrix(1,0,0,1.0000071,-3.5123999,217.88159)"
@@ -25807,7 +25815,7 @@
          inkscape:label="hw_release"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          id="g217-1-8-6-4"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -25832,7 +25840,7 @@
          inkscape:label="git_hash"><tspan
            x="35.134766"
            y="2.2730262"><tspan
-             style="stroke-width:1.00083">1f3debee</tspan></tspan></text>
+             style="stroke-width:1.00083">GIT_HASH</tspan></tspan></text>
     </g>
     <g
        transform="matrix(1,0,0,0.9523423,67.865105,186.74032)"
@@ -26482,7 +26490,7 @@
          xml:space="preserve"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          style="stroke-width:1.00083"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -26507,7 +26515,7 @@
          transform="translate(0.97642626,6.6366676)"><tspan
            x="35.134766"
            y="2.2730262"><tspan
-             style="stroke-width:1.00083">1f3debee</tspan></tspan></text>
+             style="stroke-width:1.00083">GIT_HASH</tspan></tspan></text>
     </g>
     <g
        style="stroke-width:1.02472"
@@ -27039,7 +27047,7 @@
          inkscape:label="hw_release"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          id="g217-1-4-7-6"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -27064,7 +27072,7 @@
          inkscape:label="git_hash"><tspan
            x="35.134766"
            y="2.2730262"><tspan
-             style="stroke-width:1.00083">1f3debee</tspan></tspan></text>
+             style="stroke-width:1.00083">GIT_HASH</tspan></tspan></text>
     </g>
     <g
        transform="matrix(1,0,0,0.95234231,67.865106,212.81014)"
@@ -27714,7 +27722,7 @@
          inkscape:label="hw_release"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          id="g217-7-7-3-1"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -27739,7 +27747,7 @@
          inkscape:label="git_hash"><tspan
            x="35.134766"
            y="2.2730262"><tspan
-             style="stroke-width:1.00083">1f3debee</tspan></tspan></text>
+             style="stroke-width:1.00083">GIT_HASH</tspan></tspan></text>
     </g>
     <g
        transform="matrix(1,0,0,0.95234231,7.1150558,238.78929)"
@@ -28271,7 +28279,7 @@
          xml:space="preserve"><tspan
            x="35.134766"
            y="4.0823126"><tspan
-             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> STMBL 4.3</tspan></tspan></text>
+             style="font-weight:bold;font-size:4.23333px;stroke-width:1.00083"> HW_RELEASE</tspan></tspan></text>
       <g
          style="stroke-width:1.00083"
          transform="matrix(0.05234296,0,0,0.05234296,53.418483,7.3700168)"
@@ -28296,7 +28304,7 @@
          transform="translate(0.97642626,6.6366676)"><tspan
            x="35.134766"
            y="2.2730262"><tspan
-             style="stroke-width:1.00083">1f3debee</tspan></tspan></text>
+             style="stroke-width:1.00083">GIT_HASH</tspan></tspan></text>
     </g>
     <g
        style="stroke-width:1.02472"
@@ -28760,4 +28768,21 @@
       </g>
     </g>
   </g>
-</svg>
+</svg>"""
+git_hash_placeholder = "GIT_HASH"
+hw_release_placeholder = "HW_RELEASE"
+
+process = subprocess.Popen(['git', 'rev-parse', 'HEAD'], shell=False, stdout=subprocess.PIPE)
+git_head_hash = process.communicate()[0].strip()[0:8]
+git_hash = git_head_hash[0:8]
+print("Labels for " + hw_release + " # " + git_hash)
+
+updated = template.replace(git_hash_placeholder, git_hash).replace(hw_release_placeholder, hw_release)
+
+print("Writing to " + out_filename)
+
+with open(out_filename, "w") as file:
+   file.write(updated)
+
+
+print("Done.")
