@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # coding=utf-8
+import subprocess
 
 
-git_hash = "b4e9bfad"
 hw_release = "STMBL 4.3"
 out_filename = "stmbl4_stickers.svg"
 
@@ -7573,7 +7573,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -8200,7 +8200,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60-7)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60-7)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -8817,7 +8817,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60-3)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60-3)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -9415,7 +9415,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60-7-9)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60-7-9)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -10013,7 +10013,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60-72)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60-72)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -10611,7 +10611,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60-7-1)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60-7-1)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -11209,7 +11209,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60-3-1)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60-3-1)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -11807,7 +11807,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60-7-9-9)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60-7-9-9)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -12415,7 +12415,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60-0)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60-0)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -13042,7 +13042,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60-7-2)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60-7-2)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -13659,7 +13659,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60-3-3)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60-3-3)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -14257,7 +14257,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60-7-9-0)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60-7-9-0)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -14855,7 +14855,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60-72-7)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60-72-7)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -15453,7 +15453,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60-7-1-7)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60-7-1-7)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -16051,7 +16051,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60-3-1-5)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60-3-1-5)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -16649,7 +16649,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60-7-9-9-6)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60-7-9-9-6)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -17247,7 +17247,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60-3-1-5-8)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60-3-1-5-8)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -17845,7 +17845,7 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </tspan></tspan><tspan
            x="0.14648438"
            y="11.801374"><tspan
-             style="shape-inside:url(#rect60-7-9-9-6-1)"> 5  Blue/W          Z+       REF+   RX+    ERR+
+             style="shape-inside:url(#rect60-7-9-9-6-1)"> 5  Blue/W          Z+       REF+   TX+    ERR+
 </tspan></tspan><tspan
            x="0.14648438"
            y="14.27082"><tspan
@@ -18320,12 +18320,17 @@ template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 git_hash_placeholder = "GIT_HASH"
 hw_release_placeholder = "HW_RELEASE"
 
+process = subprocess.Popen(['git', 'rev-parse', 'HEAD'], shell=False, stdout=subprocess.PIPE)
+git_head_hash = process.communicate()[0].strip()[0:8]
+git_hash = git_head_hash[0:8]
+print("Labels for " + hw_release + " # " + git_hash)
+
 updated = template.replace(git_hash_placeholder, git_hash).replace(hw_release_placeholder, hw_release)
 
 print("Writing to " + out_filename)
 
 with open(out_filename, "w") as file:
-    file.write(updated)
+   file.write(updated)
 
 
 print("Done.")
