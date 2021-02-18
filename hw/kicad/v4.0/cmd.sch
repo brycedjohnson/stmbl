@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:stmbl_4.0-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -30,6 +31,7 @@ F 7 "" H 5450 1400 60  0001 C CNN "Source"
 F 8 "" H 5450 1400 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "Texas Instruments" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C31302" H 5450 1400 50  0001 C CNN "LCSC"
 	1    5450 1400
 	-1   0    0    -1  
 $EndComp
@@ -67,6 +69,7 @@ F 7 "1%" H 4900 1400 50  0001 C CNN "Tolerance"
 F 8 "" H 4900 1400 30  0001 C CNN "InternalName"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C21190" H 4900 1400 50  0001 C CNN "LCSC"
 	1    4900 1400
 	1    0    0    -1  
 $EndComp
@@ -85,7 +88,7 @@ F 7 "" H 6500 1400 60  0001 C CNN "Manufacturer No"
 F 8 "" H 6500 1400 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C14663" H 6500 1400 50  0001 C CNN "LCSC"
+F 11 " C14663" H 6500 1400 50  0001 C CNN "LCSC"
 	1    6500 1400
 	1    0    0    -1  
 $EndComp
@@ -117,6 +120,7 @@ F 7 "" H 5450 2800 60  0001 C CNN "Source"
 F 8 "" H 5450 2800 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "Texas Instruments" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C31302" H 5450 2800 50  0001 C CNN "LCSC"
 	1    5450 2800
 	-1   0    0    -1  
 $EndComp
@@ -135,6 +139,7 @@ F 7 "" H 4900 2800 30  0001 C CNN "Voltage"
 F 8 "" H 4900 2800 30  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C21190" H 4900 2800 50  0001 C CNN "LCSC"
 	1    4900 2800
 	1    0    0    -1  
 $EndComp
@@ -153,7 +158,7 @@ F 7 "" H 6500 2800 60  0001 C CNN "Manufacturer No"
 F 8 "" H 6500 2800 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C14663" H 6500 2800 50  0001 C CNN "LCSC"
+F 11 " C14663" H 6500 2800 50  0001 C CNN "LCSC"
 	1    6500 2800
 	1    0    0    -1  
 $EndComp
@@ -185,6 +190,7 @@ F 7 "" H 5450 4200 60  0001 C CNN "Source"
 F 8 "" H 5450 4200 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "Texas Instruments" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C31302" H 5450 4200 50  0001 C CNN "LCSC"
 	1    5450 4200
 	-1   0    0    -1  
 $EndComp
@@ -203,6 +209,7 @@ F 7 "" H 4900 4200 30  0001 C CNN "Voltage"
 F 8 "" H 4900 4200 30  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C21190" H 4900 4200 50  0001 C CNN "LCSC"
 	1    4900 4200
 	1    0    0    -1  
 $EndComp
@@ -221,7 +228,7 @@ F 7 "" H 6500 4200 60  0001 C CNN "Manufacturer No"
 F 8 "" H 6500 4200 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C14663" H 6500 4200 50  0001 C CNN "LCSC"
+F 11 " C14663" H 6500 4200 50  0001 C CNN "LCSC"
 	1    6500 4200
 	1    0    0    -1  
 $EndComp
@@ -253,6 +260,7 @@ F 7 "" H 5450 5600 60  0001 C CNN "Source"
 F 8 "" H 5450 5600 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "Texas Instruments" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C31302" H 5450 5600 50  0001 C CNN "LCSC"
 	1    5450 5600
 	-1   0    0    -1  
 $EndComp
@@ -271,6 +279,7 @@ F 7 "" H 4900 5600 30  0001 C CNN "Voltage"
 F 8 "" H 4900 5600 30  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C21190" H 4900 5600 50  0001 C CNN "LCSC"
 	1    4900 5600
 	1    0    0    -1  
 $EndComp
@@ -289,7 +298,7 @@ F 7 "" H 6500 5600 60  0001 C CNN "Manufacturer No"
 F 8 "" H 6500 5600 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C14663" H 6500 5600 50  0001 C CNN "LCSC"
+F 11 " C14663" H 6500 5600 50  0001 C CNN "LCSC"
 	1    6500 5600
 	1    0    0    -1  
 $EndComp
@@ -319,6 +328,7 @@ F 7 "" H 3100 4350 30  0001 C CNN "Voltage"
 F 8 "" H 3100 4350 30  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C22765" H 3100 4350 50  0001 C CNN "LCSC"
 	1    3100 4350
 	1    0    0    -1  
 $EndComp
@@ -337,7 +347,7 @@ F 7 "" H 2900 4350 60  0001 C CNN "Manufacturer No"
 F 8 "" H 2900 4350 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C14663" H 2900 4350 50  0001 C CNN "LCSC"
+F 11 " C14663" H 2900 4350 50  0001 C CNN "LCSC"
 	1    2900 4350
 	1    0    0    -1  
 $EndComp
@@ -389,6 +399,7 @@ F 7 "" H 2300 3200 30  0001 C CNN "Voltage"
 F 8 "" H 2300 3200 30  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C23179" H 2300 3200 50  0001 C CNN "LCSC"
 	1    2300 3200
 	0    1    1    0   
 $EndComp
@@ -407,6 +418,7 @@ F 7 "" H 2300 3900 30  0001 C CNN "Voltage"
 F 8 "" H 2300 3900 30  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C23179" H 2300 3900 50  0001 C CNN "LCSC"
 	1    2300 3900
 	0    1    1    0   
 $EndComp
@@ -425,6 +437,7 @@ F 7 "" H 4900 1000 30  0001 C CNN "Voltage"
 F 8 "" H 4900 1000 30  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C25804" H 4900 1000 50  0001 C CNN "LCSC"
 	1    4900 1000
 	1    0    0    -1  
 $EndComp
@@ -443,6 +456,7 @@ F 7 "" H 4900 1800 30  0001 C CNN "Voltage"
 F 8 "" H 4900 1800 30  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C25804" H 4900 1800 50  0001 C CNN "LCSC"
 	1    4900 1800
 	1    0    0    -1  
 $EndComp
@@ -461,6 +475,7 @@ F 7 "" H 4900 2400 30  0001 C CNN "Voltage"
 F 8 "" H 4900 2400 30  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C25804" H 4900 2400 50  0001 C CNN "LCSC"
 	1    4900 2400
 	1    0    0    -1  
 $EndComp
@@ -479,6 +494,7 @@ F 7 "" H 4900 3200 30  0001 C CNN "Voltage"
 F 8 "" H 4900 3200 30  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C25804" H 4900 3200 50  0001 C CNN "LCSC"
 	1    4900 3200
 	1    0    0    -1  
 $EndComp
@@ -497,6 +513,7 @@ F 7 "" H 4900 3800 30  0001 C CNN "Voltage"
 F 8 "" H 4900 3800 30  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C25804" H 4900 3800 50  0001 C CNN "LCSC"
 	1    4900 3800
 	1    0    0    -1  
 $EndComp
@@ -515,6 +532,7 @@ F 7 "" H 4900 4600 30  0001 C CNN "Voltage"
 F 8 "" H 4900 4600 30  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C25804" H 4900 4600 50  0001 C CNN "LCSC"
 	1    4900 4600
 	1    0    0    -1  
 $EndComp
@@ -533,6 +551,7 @@ F 7 "" H 4900 5200 30  0001 C CNN "Voltage"
 F 8 "" H 4900 5200 30  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C25804" H 4900 5200 50  0001 C CNN "LCSC"
 	1    4900 5200
 	1    0    0    -1  
 $EndComp
@@ -551,6 +570,7 @@ F 7 "" H 4900 6000 30  0001 C CNN "Voltage"
 F 8 "" H 4900 6000 30  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C25804" H 4900 6000 50  0001 C CNN "LCSC"
 	1    4900 6000
 	1    0    0    -1  
 $EndComp
@@ -569,6 +589,7 @@ F 7 "" H 6900 1600 30  0001 C CNN "Voltage"
 F 8 "" H 6900 1600 30  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C21190" H 6900 1600 50  0001 C CNN "LCSC"
 	1    6900 1600
 	1    0    0    -1  
 $EndComp
@@ -598,6 +619,7 @@ F 7 "1%" H 6980 3100 50  0001 C CNN "Tolerance"
 F 8 "" V 6900 3000 50  0001 C CNN "Manufacturer"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "InternalName"
+F 11 "C21190" H 6900 3000 50  0001 C CNN "LCSC"
 	1    6900 3000
 	1    0    0    -1  
 $EndComp
@@ -627,6 +649,7 @@ F 7 "" H 6900 4400 30  0001 C CNN "Voltage"
 F 8 "" H 6900 4400 30  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C21190" H 6900 4400 50  0001 C CNN "LCSC"
 	1    6900 4400
 	1    0    0    -1  
 $EndComp
@@ -656,6 +679,7 @@ F 7 "" H 6900 5800 30  0001 C CNN "Voltage"
 F 8 "" H 6900 5800 30  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C21190" H 6900 5800 50  0001 C CNN "LCSC"
 	1    6900 5800
 	1    0    0    -1  
 $EndComp
@@ -685,6 +709,7 @@ F 7 "" H 7700 950 50  0001 C CNN "Voltage"
 F 8 "" H 7700 950 50  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "Murata" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C85827" H 7700 950 50  0001 C CNN "LCSC"
 	1    7700 950 
 	0    -1   -1   0   
 $EndComp
@@ -703,7 +728,7 @@ F 7 "" H 8100 1200 60  0001 C CNN "Manufacturer No"
 F 8 "" H 8100 1200 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C14663" H 8100 1200 50  0001 C CNN "LCSC"
+F 11 " C14663" H 8100 1200 50  0001 C CNN "LCSC"
 	1    8100 1200
 	1    0    0    -1  
 $EndComp
