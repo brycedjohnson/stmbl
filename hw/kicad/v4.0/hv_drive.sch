@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:stmbl_4.0-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -361,6 +360,7 @@ F 7 "" H 7800 4900 60  0001 C CNN "Source"
 F 8 "X5R" H 7800 4900 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C14663" H 7800 4900 50  0001 C CNN "LCSC"
 	1    7800 4900
 	1    0    0    -1  
 $EndComp
@@ -381,6 +381,7 @@ F 7 "" H 5450 2000 60  0001 C CNN "Source"
 F 8 "" H 5450 2000 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "Phoenix" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C8377" H 5450 2000 50  0001 C CNN "LCSC"
 	1    5450 2000
 	1    0    0    -1  
 $EndComp
@@ -399,6 +400,7 @@ F 7 "" H 3900 1950 60  0001 C CNN "Source"
 F 8 "" H 3900 1950 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "Phoenix" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C3697" H 3900 1950 50  0001 C CNN "LCSC"
 	1    3900 1950
 	-1   0    0    1   
 $EndComp
@@ -626,6 +628,7 @@ F 7 "" H 8800 4900 60  0001 C CNN "Source"
 F 8 "X5R" H 8800 4900 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C14663" H 8800 4900 50  0001 C CNN "LCSC"
 	1    8800 4900
 	1    0    0    -1  
 $EndComp

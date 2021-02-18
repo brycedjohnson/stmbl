@@ -81,3 +81,12 @@ stm32f303/inc/comps/*
 stm32f303/inc/shared_comps/*
 stm32f303/src/hal_tbl.c
 toolchain-user.mak
+hw/kicad/v4.0/stmbl_4.0_cpl_jlc.csv
+hw/kicad/v4.0/stmbl_4.0_bom_jlc.csv
+hw/kicad/v4.0/stmbl_4.0.xml
+hw/kicad/v4.0/stmbl_4.0.csv
+hw/kicad/v4.0/fp-info-cache
+hw/kicad/v4.0/doc/gerber/*
+hw/kicad/v4.0/doc/gerber.zip
+
+hw/kicad/v4.0/_autosave-stmbl_4.0.kicad_pcb

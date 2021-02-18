@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:stmbl_4.0-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -49,6 +48,7 @@ F 7 "" H 3000 3450 60  0001 C CNN "Voltage"
 F 8 "" H 3000 3450 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "METZ CONNECT" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C138392" H 3000 3500 50  0001 C CNN "LCSC"
 	1    3000 3500
 	0    -1   1    0   
 $EndComp
@@ -85,6 +85,7 @@ F 7 "" H 6500 1400 60  0001 C CNN "Manufacturer No"
 F 8 "" H 6500 1400 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C14663" H 6500 1400 50  0001 C CNN "LCSC"
 	1    6500 1400
 	1    0    0    -1  
 $EndComp
@@ -152,6 +153,7 @@ F 7 "" H 6500 2800 60  0001 C CNN "Manufacturer No"
 F 8 "" H 6500 2800 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C14663" H 6500 2800 50  0001 C CNN "LCSC"
 	1    6500 2800
 	1    0    0    -1  
 $EndComp
@@ -219,6 +221,7 @@ F 7 "" H 6500 4200 60  0001 C CNN "Manufacturer No"
 F 8 "" H 6500 4200 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C14663" H 6500 4200 50  0001 C CNN "LCSC"
 	1    6500 4200
 	1    0    0    -1  
 $EndComp
@@ -286,6 +289,7 @@ F 7 "" H 6500 5600 60  0001 C CNN "Manufacturer No"
 F 8 "" H 6500 5600 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C14663" H 6500 5600 50  0001 C CNN "LCSC"
 	1    6500 5600
 	1    0    0    -1  
 $EndComp
@@ -333,6 +337,7 @@ F 7 "" H 2900 4350 60  0001 C CNN "Manufacturer No"
 F 8 "" H 2900 4350 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C14663" H 2900 4350 50  0001 C CNN "LCSC"
 	1    2900 4350
 	1    0    0    -1  
 $EndComp
@@ -698,6 +703,7 @@ F 7 "" H 8100 1200 60  0001 C CNN "Manufacturer No"
 F 8 "" H 8100 1200 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C14663" H 8100 1200 50  0001 C CNN "LCSC"
 	1    8100 1200
 	1    0    0    -1  
 $EndComp
@@ -727,6 +733,7 @@ F 7 "" H 4400 4200 60  0001 C CNN "Source"
 F 8 "" H 4400 4200 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "Phoenix" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C441171" H 4400 4200 50  0001 C CNN "LCSC"
 	1    4400 4200
 	-1   0    0    -1  
 $EndComp
