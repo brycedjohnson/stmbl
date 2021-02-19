@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:stmbl_4.0-cache
 EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
@@ -605,7 +604,7 @@ F 7 "" H 0   0   50  0001 C CNN "Source"
 F 8 "" H 0   0   50  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Voltage"
 F 10 "STMicroelectronics" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C252436" H 2800 6550 50  0001 C CNN "LCSC"
+F 11 "C435848" H 2800 6550 50  0001 C CNN "LCSC"
 	1    2800 6550
 	1    0    0    -1  
 $EndComp
@@ -928,7 +927,7 @@ F 7 "" H 0   0   50  0001 C CNN "Source"
 F 8 "" H 0   0   50  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Voltage"
 F 10 "STMicroelectronics" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C252436" H 4600 10150 50  0001 C CNN "LCSC"
+F 11 "C435848" H 4600 10150 50  0001 C CNN "LCSC"
 	1    4600 10150
 	1    0    0    -1  
 $EndComp
@@ -947,7 +946,7 @@ F 7 "" H 0   0   50  0001 C CNN "Source"
 F 8 "" H 0   0   50  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Voltage"
 F 10 "STMicroelectronics" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C252436" H 2800 1950 50  0001 C CNN "LCSC"
+F 11 "C435848" H 2800 1950 50  0001 C CNN "LCSC"
 	1    2800 1950
 	-1   0    0    -1  
 $EndComp
@@ -966,7 +965,7 @@ F 7 "" H 0   0   50  0001 C CNN "Source"
 F 8 "" H 0   0   50  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Voltage"
 F 10 "STMicroelectronics" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C252436" H 2800 2650 50  0001 C CNN "LCSC"
+F 11 "C435848" H 2800 2650 50  0001 C CNN "LCSC"
 	1    2800 2650
 	-1   0    0    -1  
 $EndComp

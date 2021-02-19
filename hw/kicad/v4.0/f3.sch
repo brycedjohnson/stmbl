@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:stmbl_4.0-cache
 EELAYER 30 0
 EELAYER END
 $Descr User 19685 7874
@@ -402,7 +401,7 @@ F 7 "" H 9400 6600 50  0001 C CNN "Tolerance"
 F 8 "" H 9400 6350 50  0000 C CNN "Description"
 F 9 "" H 0   0   50  0001 C CNN "InternalName"
 F 10 "STMicroelectronics" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C252436" H 9400 6600 50  0001 C CNN "LCSC"
+F 11 "C435848" H 9400 6600 50  0001 C CNN "LCSC"
 	1    9400 6600
 	1    0    0    -1  
 $EndComp
@@ -691,7 +690,7 @@ F 7 "" H 4350 5650 50  0001 C CNN "Tolerance"
 F 8 "" H 0   0   50  0001 C CNN "Description"
 F 9 "" H 0   0   50  0001 C CNN "InternalName"
 F 10 "STMicroelectronics" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C252436" H 4350 5650 50  0001 C CNN "LCSC"
+F 11 "C435848" H 4350 5650 50  0001 C CNN "LCSC"
 	1    4350 5650
 	1    0    0    -1  
 $EndComp
