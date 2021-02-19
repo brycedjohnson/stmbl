@@ -161,7 +161,7 @@ F 7 "X5R" H 3450 1150 50  0001 C CNN "Tolerance"
 F 8 "" H 0   0   50  0001 C CNN "Description"
 F 9 "" H 0   0   50  0001 C CNN "InternalName"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 " C14663" H 3450 1150 50  0001 C CNN "LCSC"
+F 11 "C14663" H 3450 1150 50  0001 C CNN "LCSC"
 	1    3450 1150
 	0    1    1    0   
 $EndComp
@@ -180,7 +180,7 @@ F 7 "X5R" H 4650 1150 50  0001 C CNN "Tolerance"
 F 8 "" H 0   0   50  0001 C CNN "Description"
 F 9 "" H 0   0   50  0001 C CNN "InternalName"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 " C14663" H 4650 1150 50  0001 C CNN "LCSC"
+F 11 "C14663" H 4650 1150 50  0001 C CNN "LCSC"
 	1    4650 1150
 	0    1    1    0   
 $EndComp
@@ -326,7 +326,7 @@ F 7 "X5R" H 8450 1900 50  0001 C CNN "Tolerance"
 F 8 "" H -350 0   50  0001 C CNN "Description"
 F 9 "" H -350 0   50  0001 C CNN "InternalName"
 F 10 "" H -350 0   50  0001 C CNN "Manufacturer"
-F 11 " C14663" H 8450 1900 50  0001 C CNN "LCSC"
+F 11 "C14663" H 8450 1900 50  0001 C CNN "LCSC"
 	1    8450 1900
 	-1   0    0    1   
 $EndComp
@@ -608,7 +608,7 @@ F 7 "X5R" H 9000 1900 50  0001 C CNN "Tolerance"
 F 8 "" H -400 0   50  0001 C CNN "Description"
 F 9 "" H -400 0   50  0001 C CNN "InternalName"
 F 10 "" H -400 0   50  0001 C CNN "Manufacturer"
-F 11 " C14663" H 9000 1900 50  0001 C CNN "LCSC"
+F 11 "C14663" H 9000 1900 50  0001 C CNN "LCSC"
 	1    9000 1900
 	-1   0    0    1   
 $EndComp
@@ -633,7 +633,7 @@ F 7 "X5R" H 11100 1900 50  0001 C CNN "Tolerance"
 F 8 "" H 500 0   50  0001 C CNN "Description"
 F 9 "" H 500 0   50  0001 C CNN "InternalName"
 F 10 "" H 500 0   50  0001 C CNN "Manufacturer"
-F 11 " C14663" H 11100 1900 50  0001 C CNN "LCSC"
+F 11 "C14663" H 11100 1900 50  0001 C CNN "LCSC"
 	1    11100 1900
 	-1   0    0    1   
 $EndComp

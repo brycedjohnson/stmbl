@@ -87,7 +87,7 @@ F 7 "" H 6500 1400 60  0001 C CNN "Manufacturer No"
 F 8 "" H 6500 1400 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 " C14663" H 6500 1400 50  0001 C CNN "LCSC"
+F 11 "C14663" H 6500 1400 50  0001 C CNN "LCSC"
 	1    6500 1400
 	1    0    0    -1  
 $EndComp
@@ -157,7 +157,7 @@ F 7 "" H 6500 2800 60  0001 C CNN "Manufacturer No"
 F 8 "" H 6500 2800 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 " C14663" H 6500 2800 50  0001 C CNN "LCSC"
+F 11 "C14663" H 6500 2800 50  0001 C CNN "LCSC"
 	1    6500 2800
 	1    0    0    -1  
 $EndComp
@@ -227,7 +227,7 @@ F 7 "" H 6500 4200 60  0001 C CNN "Manufacturer No"
 F 8 "" H 6500 4200 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 " C14663" H 6500 4200 50  0001 C CNN "LCSC"
+F 11 "C14663" H 6500 4200 50  0001 C CNN "LCSC"
 	1    6500 4200
 	1    0    0    -1  
 $EndComp
@@ -297,7 +297,7 @@ F 7 "" H 6500 5600 60  0001 C CNN "Manufacturer No"
 F 8 "" H 6500 5600 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 " C14663" H 6500 5600 50  0001 C CNN "LCSC"
+F 11 "C14663" H 6500 5600 50  0001 C CNN "LCSC"
 	1    6500 5600
 	1    0    0    -1  
 $EndComp
@@ -346,7 +346,7 @@ F 7 "" H 2900 4350 60  0001 C CNN "Manufacturer No"
 F 8 "" H 2900 4350 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 " C14663" H 2900 4350 50  0001 C CNN "LCSC"
+F 11 "C14663" H 2900 4350 50  0001 C CNN "LCSC"
 	1    2900 4350
 	1    0    0    -1  
 $EndComp
@@ -727,7 +727,7 @@ F 7 "" H 8100 1200 60  0001 C CNN "Manufacturer No"
 F 8 "" H 8100 1200 60  0001 C CNN "Source"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 " C14663" H 8100 1200 50  0001 C CNN "LCSC"
+F 11 "C14663" H 8100 1200 50  0001 C CNN "LCSC"
 	1    8100 1200
 	1    0    0    -1  
 $EndComp
