@@ -308,12 +308,12 @@ F 1 "18p" H 2725 4150 50  0000 L CNN
 F 2 "stmbl:C_0603" H 2738 4100 30  0001 C CNN
 F 3 "" H 2700 4250 60  0000 C CNN
 F 4 "" H 2700 4250 60  0001 C CNN "InternalName"
-F 5 "" H 2700 4250 60  0001 C CNN "Manufacturer No"
+F 5 "CL10C180JB8NNNC" H 2700 4250 60  0001 C CNN "Manufacturer No"
 F 6 "50V" H 2700 4250 60  0001 C CNN "Voltage"
 F 7 "" H 2700 4250 60  0001 C CNN "Source"
 F 8 "X5R" H 2700 4250 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C1647" H 2700 4250 50  0001 C CNN "LCSC"
 	1    2700 4250
 	1    0    0    -1  
@@ -327,12 +327,12 @@ F 1 "18p" H 3525 4150 50  0000 L CNN
 F 2 "stmbl:C_0603" H 3538 4100 30  0001 C CNN
 F 3 "" H 3500 4250 60  0000 C CNN
 F 4 "" H 3500 4250 60  0001 C CNN "InternalName"
-F 5 "" H 3500 4250 60  0001 C CNN "Manufacturer No"
+F 5 "CL10C180JB8NNNC" H 3500 4250 60  0001 C CNN "Manufacturer No"
 F 6 "50V" H 3500 4250 60  0001 C CNN "Voltage"
 F 7 "" H 3500 4250 60  0001 C CNN "Source"
 F 8 "X5R" H 3500 4250 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C1647" H 3500 4250 50  0001 C CNN "LCSC"
 	1    3500 4250
 	1    0    0    -1  
@@ -346,12 +346,12 @@ F 1 "18p" H 4325 4150 50  0000 L CNN
 F 2 "stmbl:C_0603" H 4338 4100 30  0001 C CNN
 F 3 "" H 4300 4250 60  0000 C CNN
 F 4 "" H 4300 4250 60  0001 C CNN "InternalName"
-F 5 "" H 4300 4250 60  0001 C CNN "Manufacturer No"
+F 5 "CL10C180JB8NNNC" H 4300 4250 60  0001 C CNN "Manufacturer No"
 F 6 "50V" H 4300 4250 60  0001 C CNN "Voltage"
 F 7 "" H 4300 4250 60  0001 C CNN "Source"
 F 8 "X5R" H 4300 4250 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C1647" H 4300 4250 50  0001 C CNN "LCSC"
 	1    4300 4250
 	1    0    0    -1  
@@ -365,12 +365,12 @@ F 1 "18p" H 5225 4150 50  0000 L CNN
 F 2 "stmbl:C_0603" H 5238 4100 30  0001 C CNN
 F 3 "" H 5200 4250 60  0000 C CNN
 F 4 "" H 5200 4250 60  0001 C CNN "InternalName"
-F 5 "" H 5200 4250 60  0001 C CNN "Manufacturer No"
+F 5 "CL10C180JB8NNNC" H 5200 4250 60  0001 C CNN "Manufacturer No"
 F 6 "50V" H 5200 4250 60  0001 C CNN "Voltage"
 F 7 "" H 5200 4250 60  0001 C CNN "Source"
 F 8 "X5R" H 5200 4250 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C1647" H 5200 4250 50  0001 C CNN "LCSC"
 	1    5200 4250
 	1    0    0    -1  

@@ -37,17 +37,17 @@ L stmbl:C C18
 U 1 1 566075DC
 P 2700 5350
 F 0 "C18" H 2725 5450 50  0000 L CNN
-F 1 "2.2µ" H 2725 5250 50  0000 L CNN
+F 1 "1u" H 2725 5250 50  0000 L CNN
 F 2 "stmbl:C_0603" H 2738 5200 30  0001 C CNN
 F 3 "" H 2700 5350 60  0000 C CNN
 F 4 "35V" H 2700 5350 60  0001 C CNN "Voltage"
 F 5 "X5R" H 2700 5350 60  0001 C CNN "Tolerance"
 F 6 "" H 0   0   50  0001 C CNN "Description"
 F 7 "" H 0   0   50  0001 C CNN "InternalName"
-F 8 "" H 0   0   50  0001 C CNN "Manufacturer No"
+F 8 "CL10A105KB8NNNC" H 0   0   50  0001 C CNN "Manufacturer No"
 F 9 "" H 0   0   50  0001 C CNN "Source"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C23630" H 2700 5350 50  0001 C CNN "LCSC"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C15849" H 2700 5350 50  0001 C CNN "LCSC"
 	1    2700 5350
 	1    0    0    -1  
 $EndComp
@@ -56,17 +56,17 @@ L stmbl:C C8
 U 1 1 566076FA
 P 1500 5350
 F 0 "C8" H 1525 5450 50  0000 L CNN
-F 1 "2.2µ" H 1525 5250 50  0000 L CNN
+F 1 "1u" H 1525 5250 50  0000 L CNN
 F 2 "stmbl:C_0603" H 1538 5200 30  0001 C CNN
 F 3 "" H 1500 5350 60  0000 C CNN
 F 4 "35V" H 1500 5350 60  0001 C CNN "Voltage"
 F 5 "X5R" H 1500 5350 60  0001 C CNN "Tolerance"
 F 6 "" H 0   0   50  0001 C CNN "Description"
 F 7 "" H 0   0   50  0001 C CNN "InternalName"
-F 8 "" H 0   0   50  0001 C CNN "Manufacturer No"
+F 8 "CL10A105KB8NNNC" H 0   0   50  0001 C CNN "Manufacturer No"
 F 9 "" H 0   0   50  0001 C CNN "Source"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C23630" H 1500 5350 50  0001 C CNN "LCSC"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C15849" H 1500 5350 50  0001 C CNN "LCSC"
 	1    1500 5350
 	1    0    0    -1  
 $EndComp
@@ -107,7 +107,7 @@ F 7 "" H 800 3000 60  0001 C CNN "Source"
 F 8 "" H 800 3000 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "Phoenix" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C441171" H 800 3000 50  0001 C CNN "LCSC"
+F 11 "" H 800 3000 50  0001 C CNN "LCSC"
 	1    800  3000
 	-1   0    0    -1  
 $EndComp
@@ -132,11 +132,11 @@ F 2 "stmbl:C_0805" H 8238 5200 30  0001 C CNN
 F 3 "" H 8200 5350 60  0000 C CNN
 F 4 "25V" H 8200 5350 60  0001 C CNN "Voltage"
 F 5 "" H 8200 5350 60  0001 C CNN "InternalName"
-F 6 "" H 8200 5350 60  0001 C CNN "Manufacturer No"
+F 6 "CL21A106KAYNNNE" H 8200 5350 60  0001 C CNN "Manufacturer No"
 F 7 "" H 8200 5350 60  0001 C CNN "Source"
 F 8 "X5R" H 8200 5350 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C15850" H 8200 5350 50  0001 C CNN "LCSC"
 	1    8200 5350
 	1    0    0    -1  
@@ -207,12 +207,12 @@ F 1 "100n" H 6875 4700 50  0000 L CNN
 F 2 "stmbl:C_0603" H 6888 4650 30  0001 C CNN
 F 3 "" H 6850 4800 60  0000 C CNN
 F 4 "" H 6850 4800 60  0001 C CNN "InternalName"
-F 5 "" H 6850 4800 60  0001 C CNN "Manufacturer No"
+F 5 "CC0603KRX7R9BB104 " H 6850 4800 60  0001 C CNN "Manufacturer No"
 F 6 "50V" H 6850 4800 60  0001 C CNN "Voltage"
 F 7 "" H 6850 4800 60  0001 C CNN "Source"
 F 8 "X5R" H 6850 4800 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "YAGEO" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C14663" H 6850 4800 50  0001 C CNN "LCSC"
 	1    6850 4800
 	0    -1   -1   0   
@@ -267,11 +267,11 @@ F 2 "stmbl:C_0805" H 8488 3400 30  0001 C CNN
 F 3 "" H 8450 3550 60  0000 C CNN
 F 4 "25V" H 8450 3550 60  0001 C CNN "Voltage"
 F 5 "" H 8450 3550 60  0001 C CNN "InternalName"
-F 6 "" H 8450 3550 60  0001 C CNN "Manufacturer No"
+F 6 "CL21A106KAYNNNE" H 8450 3550 60  0001 C CNN "Manufacturer No"
 F 7 "" H 8450 3550 60  0001 C CNN "Source"
 F 8 "X5R" H 8450 3550 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C15850" H 8450 3550 50  0001 C CNN "LCSC"
 	1    8450 3550
 	1    0    0    -1  
@@ -342,12 +342,12 @@ F 1 "100n" H 6875 2900 50  0000 L CNN
 F 2 "stmbl:C_0603" H 6888 2850 30  0001 C CNN
 F 3 "" H 6850 3000 60  0000 C CNN
 F 4 "" H 6850 3000 60  0001 C CNN "InternalName"
-F 5 "" H 6850 3000 60  0001 C CNN "Manufacturer No"
+F 5 "CC0603KRX7R9BB104 " H 6850 3000 60  0001 C CNN "Manufacturer No"
 F 6 "50V" H 6850 3000 60  0001 C CNN "Voltage"
 F 7 "" H 6850 3000 60  0001 C CNN "Source"
 F 8 "X5R" H 6850 3000 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "YAGEO" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C14663" H 6850 3000 50  0001 C CNN "LCSC"
 	1    6850 3000
 	0    -1   -1   0   
@@ -443,12 +443,12 @@ F 1 "100n" H 1225 5250 50  0000 L CNN
 F 2 "stmbl:C_0603" H 1238 5200 30  0001 C CNN
 F 3 "" H 1200 5350 60  0000 C CNN
 F 4 "" H 1200 5350 60  0001 C CNN "InternalName"
-F 5 "" H 1200 5350 60  0001 C CNN "Manufacturer No"
+F 5 "CC0603KRX7R9BB104 " H 1200 5350 60  0001 C CNN "Manufacturer No"
 F 6 "50V" H 1200 5350 60  0001 C CNN "Voltage"
 F 7 "" H 1200 5350 60  0001 C CNN "Source"
 F 8 "X5R" H 1200 5350 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "YAGEO" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C14663" H 1200 5350 50  0001 C CNN "LCSC"
 	1    1200 5350
 	1    0    0    -1  
@@ -462,12 +462,12 @@ F 1 "100n" H 7725 5250 50  0000 L CNN
 F 2 "stmbl:C_0603" H 7738 5200 30  0001 C CNN
 F 3 "" H 7700 5350 60  0000 C CNN
 F 4 "" H 7700 5350 60  0001 C CNN "InternalName"
-F 5 "" H 7700 5350 60  0001 C CNN "Manufacturer No"
+F 5 "CC0603KRX7R9BB104 " H 7700 5350 60  0001 C CNN "Manufacturer No"
 F 6 "50V" H 7700 5350 60  0001 C CNN "Voltage"
 F 7 "" H 7700 5350 60  0001 C CNN "Source"
 F 8 "X5R" H 7700 5350 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "YAGEO" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C14663" H 7700 5350 50  0001 C CNN "LCSC"
 	1    7700 5350
 	1    0    0    -1  
@@ -481,12 +481,12 @@ F 1 "100n" H 7725 3450 50  0000 L CNN
 F 2 "stmbl:C_0603" H 7738 3400 30  0001 C CNN
 F 3 "" H 7700 3550 60  0000 C CNN
 F 4 "" H 7700 3550 60  0001 C CNN "InternalName"
-F 5 "" H 7700 3550 60  0001 C CNN "Manufacturer No"
+F 5 "CC0603KRX7R9BB104 " H 7700 3550 60  0001 C CNN "Manufacturer No"
 F 6 "50V" H 7700 3550 60  0001 C CNN "Voltage"
 F 7 "" H 7700 3550 60  0001 C CNN "Source"
 F 8 "X5R" H 7700 3550 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "YAGEO" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C14663" H 7700 3550 50  0001 C CNN "LCSC"
 	1    7700 3550
 	1    0    0    -1  
@@ -500,12 +500,12 @@ F 1 "100n" H 5075 3450 50  0000 L CNN
 F 2 "stmbl:C_0603" H 5088 3400 30  0001 C CNN
 F 3 "" H 5050 3550 60  0000 C CNN
 F 4 "" H 5050 3550 60  0001 C CNN "InternalName"
-F 5 "" H 5050 3550 60  0001 C CNN "Manufacturer No"
+F 5 "CC0603KRX7R9BB104 " H 5050 3550 60  0001 C CNN "Manufacturer No"
 F 6 "50V" H 5050 3550 60  0001 C CNN "Voltage"
 F 7 "" H 5050 3550 60  0001 C CNN "Source"
 F 8 "X5R" H 5050 3550 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "YAGEO" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C14663" H 5050 3550 50  0001 C CNN "LCSC"
 	1    5050 3550
 	1    0    0    -1  
@@ -519,12 +519,12 @@ F 1 "100n" H 5025 5250 50  0000 L CNN
 F 2 "stmbl:C_0603" H 5038 5200 30  0001 C CNN
 F 3 "" H 5000 5350 60  0000 C CNN
 F 4 "" H 5000 5350 60  0001 C CNN "InternalName"
-F 5 "" H 5000 5350 60  0001 C CNN "Manufacturer No"
+F 5 "CC0603KRX7R9BB104 " H 5000 5350 60  0001 C CNN "Manufacturer No"
 F 6 "50V" H 5000 5350 60  0001 C CNN "Voltage"
 F 7 "" H 5000 5350 60  0001 C CNN "Source"
 F 8 "X5R" H 5000 5350 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "YAGEO" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C14663" H 5000 5350 50  0001 C CNN "LCSC"
 	1    5000 5350
 	1    0    0    -1  
@@ -538,12 +538,12 @@ F 1 "100n" H 2475 5250 50  0000 L CNN
 F 2 "stmbl:C_0603" H 2488 5200 30  0001 C CNN
 F 3 "" H 2450 5350 60  0000 C CNN
 F 4 "" H 2450 5350 60  0001 C CNN "InternalName"
-F 5 "" H 2450 5350 60  0001 C CNN "Manufacturer No"
+F 5 "CC0603KRX7R9BB104 " H 2450 5350 60  0001 C CNN "Manufacturer No"
 F 6 "50V" H 2450 5350 60  0001 C CNN "Voltage"
 F 7 "" H 2450 5350 60  0001 C CNN "Source"
 F 8 "X5R" H 2450 5350 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "YAGEO" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C14663" H 2450 5350 50  0001 C CNN "LCSC"
 	1    2450 5350
 	1    0    0    -1  
@@ -558,11 +558,11 @@ F 2 "stmbl:C_0805" H 8238 3400 30  0001 C CNN
 F 3 "" H 8200 3550 60  0000 C CNN
 F 4 "25V" H 8200 3550 60  0001 C CNN "Voltage"
 F 5 "" H 8200 3550 60  0001 C CNN "InternalName"
-F 6 "" H 8200 3550 60  0001 C CNN "Manufacturer No"
+F 6 "CL21A106KAYNNNE" H 8200 3550 60  0001 C CNN "Manufacturer No"
 F 7 "" H 8200 3550 60  0001 C CNN "Source"
 F 8 "X5R" H 8200 3550 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C15850" H 8200 3550 50  0001 C CNN "LCSC"
 	1    8200 3550
 	1    0    0    -1  
@@ -583,17 +583,17 @@ L stmbl:C C101
 U 1 1 57B21BDA
 P 2500 3150
 F 0 "C101" H 2525 3250 50  0000 L CNN
-F 1 "2.2µ" H 2525 3050 50  0000 L CNN
+F 1 "1u" H 2525 3050 50  0000 L CNN
 F 2 "stmbl:C_0603" H 2538 3000 30  0001 C CNN
 F 3 "" H 2500 3150 60  0000 C CNN
 F 4 "" H 2500 3150 60  0001 C CNN "InternalName"
-F 5 "" H 2500 3150 60  0001 C CNN "Manufacturer No"
+F 5 "CL10A105KB8NNNC" H 2500 3150 60  0001 C CNN "Manufacturer No"
 F 6 "35V" H 2500 3150 60  0001 C CNN "Voltage"
 F 7 "" H 2500 3150 60  0001 C CNN "Source"
 F 8 "X5R" H 2500 3150 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C23630" H 2500 3150 50  0001 C CNN "LCSC"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C15849" H 2500 3150 50  0001 C CNN "LCSC"
 	1    2500 3150
 	1    0    0    -1  
 $EndComp
@@ -602,17 +602,17 @@ L stmbl:C C102
 U 1 1 57B21C48
 P 5300 5350
 F 0 "C102" H 5325 5450 50  0000 L CNN
-F 1 "2.2µ" H 5325 5250 50  0000 L CNN
+F 1 "1u" H 5325 5250 50  0000 L CNN
 F 2 "stmbl:C_0603" H 5338 5200 30  0001 C CNN
 F 3 "" H 5300 5350 60  0000 C CNN
 F 4 "" H 5300 5350 60  0001 C CNN "InternalName"
-F 5 "" H 5300 5350 60  0001 C CNN "Manufacturer No"
+F 5 "CL10A105KB8NNNC" H 5300 5350 60  0001 C CNN "Manufacturer No"
 F 6 "35V" H 5300 5350 60  0001 C CNN "Voltage"
 F 7 "" H 5300 5350 60  0001 C CNN "Source"
 F 8 "X5R" H 5300 5350 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C23630" H 5300 5350 50  0001 C CNN "LCSC"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C15849" H 5300 5350 50  0001 C CNN "LCSC"
 	1    5300 5350
 	1    0    0    -1  
 $EndComp
@@ -626,11 +626,11 @@ F 2 "stmbl:C_0805" H 8488 1900 30  0001 C CNN
 F 3 "" H 8450 2050 60  0000 C CNN
 F 4 "25V" H 8450 2050 60  0001 C CNN "Voltage"
 F 5 "" H 8450 2050 60  0001 C CNN "InternalName"
-F 6 "" H 8450 2050 60  0001 C CNN "Manufacturer No"
+F 6 "CL21A106KAYNNNE" H 8450 2050 60  0001 C CNN "Manufacturer No"
 F 7 "" H 8450 2050 60  0001 C CNN "Source"
 F 8 "X5R" H 8450 2050 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C15850" H 8450 2050 50  0001 C CNN "LCSC"
 	1    8450 2050
 	1    0    0    -1  
@@ -682,12 +682,12 @@ F 1 "100n" H 6875 1400 50  0000 L CNN
 F 2 "stmbl:C_0603" H 6888 1350 30  0001 C CNN
 F 3 "" H 6850 1500 60  0000 C CNN
 F 4 "" H 6850 1500 60  0001 C CNN "InternalName"
-F 5 "" H 6850 1500 60  0001 C CNN "Manufacturer No"
+F 5 "CC0603KRX7R9BB104 " H 6850 1500 60  0001 C CNN "Manufacturer No"
 F 6 "50V" H 6850 1500 60  0001 C CNN "Voltage"
 F 7 "" H 6850 1500 60  0001 C CNN "Source"
 F 8 "X5R" H 6850 1500 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "YAGEO" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C14663" H 6850 1500 50  0001 C CNN "LCSC"
 	1    6850 1500
 	0    -1   -1   0   
@@ -760,12 +760,12 @@ F 1 "100n" H 7725 1950 50  0000 L CNN
 F 2 "stmbl:C_0603" H 7738 1900 30  0001 C CNN
 F 3 "" H 7700 2050 60  0000 C CNN
 F 4 "" H 7700 2050 60  0001 C CNN "InternalName"
-F 5 "" H 7700 2050 60  0001 C CNN "Manufacturer No"
+F 5 "CC0603KRX7R9BB104 " H 7700 2050 60  0001 C CNN "Manufacturer No"
 F 6 "50V" H 7700 2050 60  0001 C CNN "Voltage"
 F 7 "" H 7700 2050 60  0001 C CNN "Source"
 F 8 "X5R" H 7700 2050 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "YAGEO" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C14663" H 7700 2050 50  0001 C CNN "LCSC"
 	1    7700 2050
 	1    0    0    -1  
@@ -779,12 +779,12 @@ F 1 "100n" H 5075 1950 50  0000 L CNN
 F 2 "stmbl:C_0603" H 5088 1900 30  0001 C CNN
 F 3 "" H 5050 2050 60  0000 C CNN
 F 4 "" H 5050 2050 60  0001 C CNN "InternalName"
-F 5 "" H 5050 2050 60  0001 C CNN "Manufacturer No"
+F 5 "CC0603KRX7R9BB104 " H 5050 2050 60  0001 C CNN "Manufacturer No"
 F 6 "50V" H 5050 2050 60  0001 C CNN "Voltage"
 F 7 "" H 5050 2050 60  0001 C CNN "Source"
 F 8 "X5R" H 5050 2050 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "YAGEO" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C14663" H 5050 2050 50  0001 C CNN "LCSC"
 	1    5050 2050
 	1    0    0    -1  
@@ -799,11 +799,11 @@ F 2 "stmbl:C_0805" H 8238 1900 30  0001 C CNN
 F 3 "" H 8200 2050 60  0000 C CNN
 F 4 "25V" H 8200 2050 60  0001 C CNN "Voltage"
 F 5 "" H 8200 2050 60  0001 C CNN "InternalName"
-F 6 "" H 8200 2050 60  0001 C CNN "Manufacturer No"
+F 6 "CL21A106KAYNNNE" H 8200 2050 60  0001 C CNN "Manufacturer No"
 F 7 "" H 8200 2050 60  0001 C CNN "Source"
 F 8 "X5R" H 8200 2050 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C15850" H 8200 2050 50  0001 C CNN "LCSC"
 	1    8200 2050
 	1    0    0    -1  
@@ -1020,17 +1020,17 @@ L stmbl:C C136
 U 1 1 5824ACDB
 P 7950 5350
 F 0 "C136" H 7975 5450 50  0000 L CNN
-F 1 "2.2µ" H 7975 5250 50  0000 L CNN
+F 1 "1u" H 7975 5250 50  0000 L CNN
 F 2 "stmbl:C_0603" H 7988 5200 30  0001 C CNN
 F 3 "" H 7950 5350 60  0000 C CNN
 F 4 "35V" H 7950 5350 60  0001 C CNN "Voltage"
 F 5 "" H 7950 5350 60  0001 C CNN "InternalName"
-F 6 "" H 7950 5350 60  0001 C CNN "Manufacturer No"
+F 6 "CL10A105KB8NNNC" H 7950 5350 60  0001 C CNN "Manufacturer No"
 F 7 "" H 7950 5350 60  0001 C CNN "Source"
 F 8 "X5R" H 7950 5350 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C23630" H 7950 5350 50  0001 C CNN "LCSC"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C15849" H 7950 5350 50  0001 C CNN "LCSC"
 	1    7950 5350
 	1    0    0    -1  
 $EndComp
@@ -1039,17 +1039,17 @@ L stmbl:C C135
 U 1 1 5824C702
 P 7950 3550
 F 0 "C135" H 7975 3650 50  0000 L CNN
-F 1 "2.2µ" H 7975 3450 50  0000 L CNN
+F 1 "1u" H 7975 3450 50  0000 L CNN
 F 2 "stmbl:C_0603" H 7988 3400 30  0001 C CNN
 F 3 "" H 7950 3550 60  0000 C CNN
 F 4 "35V" H 7950 3550 60  0001 C CNN "Voltage"
 F 5 "" H 7950 3550 60  0001 C CNN "InternalName"
-F 6 "" H 7950 3550 60  0001 C CNN "Manufacturer No"
+F 6 "CL10A105KB8NNNC" H 7950 3550 60  0001 C CNN "Manufacturer No"
 F 7 "" H 7950 3550 60  0001 C CNN "Source"
 F 8 "X5R" H 7950 3550 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C23630" H 7950 3550 50  0001 C CNN "LCSC"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C15849" H 7950 3550 50  0001 C CNN "LCSC"
 	1    7950 3550
 	1    0    0    -1  
 $EndComp
@@ -1058,17 +1058,17 @@ L stmbl:C C134
 U 1 1 58250581
 P 7950 2050
 F 0 "C134" H 7975 2150 50  0000 L CNN
-F 1 "2.2µ" H 7975 1950 50  0000 L CNN
+F 1 "1u" H 7975 1950 50  0000 L CNN
 F 2 "stmbl:C_0603" H 7988 1900 30  0001 C CNN
 F 3 "" H 7950 2050 60  0000 C CNN
 F 4 "35V" H 7950 2050 60  0001 C CNN "Voltage"
 F 5 "" H 7950 2050 60  0001 C CNN "InternalName"
-F 6 "" H 7950 2050 60  0001 C CNN "Manufacturer No"
+F 6 "CL10A105KB8NNNC" H 7950 2050 60  0001 C CNN "Manufacturer No"
 F 7 "" H 7950 2050 60  0001 C CNN "Source"
 F 8 "X5R" H 7950 2050 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C23630" H 7950 2050 50  0001 C CNN "LCSC"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C15849" H 7950 2050 50  0001 C CNN "LCSC"
 	1    7950 2050
 	1    0    0    -1  
 $EndComp
@@ -1101,11 +1101,11 @@ F 2 "stmbl:C_0805" H 8488 5200 30  0001 C CNN
 F 3 "" H 8450 5350 60  0000 C CNN
 F 4 "25V" H 8450 5350 60  0001 C CNN "Voltage"
 F 5 "" H 8450 5350 60  0001 C CNN "InternalName"
-F 6 "" H 8450 5350 60  0001 C CNN "Manufacturer No"
+F 6 "CL21A106KAYNNNE" H 8450 5350 60  0001 C CNN "Manufacturer No"
 F 7 "" H 8450 5350 60  0001 C CNN "Source"
 F 8 "X5R" H 8450 5350 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C15850" H 8450 5350 50  0001 C CNN "LCSC"
 	1    8450 5350
 	1    0    0    -1  
@@ -1120,11 +1120,11 @@ F 2 "stmbl:C_0805" H 2988 5200 30  0001 C CNN
 F 3 "" H 2950 5350 60  0000 C CNN
 F 4 "25V" H 2950 5350 60  0001 C CNN "Voltage"
 F 5 "" H 2950 5350 60  0001 C CNN "InternalName"
-F 6 "" H 2950 5350 60  0001 C CNN "Manufacturer No"
+F 6 "CL21A106KAYNNNE" H 2950 5350 60  0001 C CNN "Manufacturer No"
 F 7 "" H 2950 5350 60  0001 C CNN "Source"
 F 8 "X5R" H 2950 5350 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C15850" H 2950 5350 50  0001 C CNN "LCSC"
 	1    2950 5350
 	1    0    0    -1  
@@ -1134,17 +1134,17 @@ L stmbl:C C137
 U 1 1 5829DD53
 P 5300 3550
 F 0 "C137" H 5325 3650 50  0000 L CNN
-F 1 "2.2µ" H 5325 3450 50  0000 L CNN
+F 1 "1u" H 5325 3450 50  0000 L CNN
 F 2 "stmbl:C_0603" H 5338 3400 30  0001 C CNN
 F 3 "" H 5300 3550 60  0000 C CNN
 F 4 "" H 5300 3550 60  0001 C CNN "InternalName"
-F 5 "" H 5300 3550 60  0001 C CNN "Manufacturer No"
+F 5 "CL10A105KB8NNNC" H 5300 3550 60  0001 C CNN "Manufacturer No"
 F 6 "35V" H 5300 3550 60  0001 C CNN "Voltage"
 F 7 "" H 5300 3550 60  0001 C CNN "Source"
 F 8 "X5R" H 5300 3550 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C23630" H 5300 3550 50  0001 C CNN "LCSC"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C15849" H 5300 3550 50  0001 C CNN "LCSC"
 	1    5300 3550
 	1    0    0    -1  
 $EndComp
@@ -1153,17 +1153,17 @@ L stmbl:C C133
 U 1 1 5829DE03
 P 5300 2050
 F 0 "C133" H 5325 2150 50  0000 L CNN
-F 1 "2.2µ" H 5325 1950 50  0000 L CNN
+F 1 "1u" H 5325 1950 50  0000 L CNN
 F 2 "stmbl:C_0603" H 5338 1900 30  0001 C CNN
 F 3 "" H 5300 2050 60  0000 C CNN
 F 4 "" H 5300 2050 60  0001 C CNN "InternalName"
-F 5 "" H 5300 2050 60  0001 C CNN "Manufacturer No"
+F 5 "CL10A105KB8NNNC" H 5300 2050 60  0001 C CNN "Manufacturer No"
 F 6 "35V" H 5300 2050 60  0001 C CNN "Voltage"
 F 7 "" H 5300 2050 60  0001 C CNN "Source"
 F 8 "X5R" H 5300 2050 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C23630" H 5300 2050 50  0001 C CNN "LCSC"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C15849" H 5300 2050 50  0001 C CNN "LCSC"
 	1    5300 2050
 	1    0    0    -1  
 $EndComp
@@ -1172,17 +1172,17 @@ L stmbl:C C62
 U 1 1 583297B2
 P 2750 3150
 F 0 "C62" H 2775 3250 50  0000 L CNN
-F 1 "2.2µ" H 2775 3050 50  0000 L CNN
+F 1 "1u" H 2775 3050 50  0000 L CNN
 F 2 "stmbl:C_0603" H 2788 3000 30  0001 C CNN
 F 3 "" H 2750 3150 60  0000 C CNN
 F 4 "" H 2750 3150 60  0001 C CNN "InternalName"
-F 5 "" H 2750 3150 60  0001 C CNN "Manufacturer No"
+F 5 "CL10A105KB8NNNC" H 2750 3150 60  0001 C CNN "Manufacturer No"
 F 6 "35V" H 2750 3150 60  0001 C CNN "Voltage"
 F 7 "" H 2750 3150 60  0001 C CNN "Source"
 F 8 "X5R" H 2750 3150 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C23630" H 2750 3150 50  0001 C CNN "LCSC"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C15849" H 2750 3150 50  0001 C CNN "LCSC"
 	1    2750 3150
 	1    0    0    -1  
 $EndComp
@@ -1191,17 +1191,17 @@ L stmbl:C C139
 U 1 1 5832CFE2
 P 3000 3150
 F 0 "C139" H 3025 3250 50  0000 L CNN
-F 1 "2.2µ" H 3025 3050 50  0000 L CNN
+F 1 "1u" H 3025 3050 50  0000 L CNN
 F 2 "stmbl:C_0603" H 3038 3000 30  0001 C CNN
 F 3 "" H 3000 3150 60  0000 C CNN
 F 4 "" H 3000 3150 60  0001 C CNN "InternalName"
-F 5 "" H 3000 3150 60  0001 C CNN "Manufacturer No"
+F 5 "CL10A105KB8NNNC" H 3000 3150 60  0001 C CNN "Manufacturer No"
 F 6 "35V" H 3000 3150 60  0001 C CNN "Voltage"
 F 7 "" H 3000 3150 60  0001 C CNN "Source"
 F 8 "X5R" H 3000 3150 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C23630" H 3000 3150 50  0001 C CNN "LCSC"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C15849" H 3000 3150 50  0001 C CNN "LCSC"
 	1    3000 3150
 	1    0    0    -1  
 $EndComp
@@ -1210,17 +1210,17 @@ L stmbl:C C140
 U 1 1 5832D0A0
 P 3250 3150
 F 0 "C140" H 3275 3250 50  0000 L CNN
-F 1 "2.2µ" H 3275 3050 50  0000 L CNN
+F 1 "1u" H 3275 3050 50  0000 L CNN
 F 2 "stmbl:C_0603" H 3288 3000 30  0001 C CNN
 F 3 "" H 3250 3150 60  0000 C CNN
 F 4 "" H 3250 3150 60  0001 C CNN "InternalName"
-F 5 "" H 3250 3150 60  0001 C CNN "Manufacturer No"
+F 5 "CL10A105KB8NNNC" H 3250 3150 60  0001 C CNN "Manufacturer No"
 F 6 "35V" H 3250 3150 60  0001 C CNN "Voltage"
 F 7 "" H 3250 3150 60  0001 C CNN "Source"
 F 8 "X5R" H 3250 3150 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C23630" H 3250 3150 50  0001 C CNN "LCSC"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C15849" H 3250 3150 50  0001 C CNN "LCSC"
 	1    3250 3150
 	1    0    0    -1  
 $EndComp
@@ -1229,17 +1229,17 @@ L stmbl:C C142
 U 1 1 5833FCEB
 P 3500 3150
 F 0 "C142" H 3525 3250 50  0000 L CNN
-F 1 "2.2µ" H 3525 3050 50  0000 L CNN
+F 1 "1u" H 3525 3050 50  0000 L CNN
 F 2 "stmbl:C_0603" H 3538 3000 30  0001 C CNN
 F 3 "" H 3500 3150 60  0000 C CNN
 F 4 "" H 3500 3150 60  0001 C CNN "InternalName"
-F 5 "" H 3500 3150 60  0001 C CNN "Manufacturer No"
+F 5 "CL10A105KB8NNNC" H 3500 3150 60  0001 C CNN "Manufacturer No"
 F 6 "35V" H 3500 3150 60  0001 C CNN "Voltage"
 F 7 "" H 3500 3150 60  0001 C CNN "Source"
 F 8 "X5R" H 3500 3150 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C23630" H 3500 3150 50  0001 C CNN "LCSC"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C15849" H 3500 3150 50  0001 C CNN "LCSC"
 	1    3500 3150
 	1    0    0    -1  
 $EndComp
@@ -1304,12 +1304,13 @@ F 1 "22µ" H 2025 3050 50  0000 L CNN
 F 2 "stmbl:C_Radial_D6.5_L11_P2.5" H 2038 3000 50  0000 C CNN
 F 3 "" H 2000 3150 50  0000 C CNN
 F 4 "" H 2000 3150 50  0001 C CNN "InternalName"
-F 5 "" H 2000 3150 50  0001 C CNN "Manufacturer No"
+F 5 "SD050M220D11PKKKS00R" H 2000 3150 50  0001 C CNN "Manufacturer No"
 F 6 "50V" H 2000 3150 50  0001 C CNN "Voltage"
 F 7 "" H 2000 3150 50  0001 C CNN "Source"
 F 8 "" H 2000 3150 50  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "Su'scon" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C317887" H 2000 3150 50  0001 C CNN "LCSC"
 	1    2000 3150
 	1    0    0    -1  
 $EndComp
@@ -1413,17 +1414,17 @@ L stmbl:C C144
 U 1 1 58856551
 P 3750 3150
 F 0 "C144" H 3775 3250 50  0000 L CNN
-F 1 "2.2µ" H 3775 3050 50  0000 L CNN
+F 1 "1u" H 3775 3050 50  0000 L CNN
 F 2 "stmbl:C_0603" H 3788 3000 30  0001 C CNN
 F 3 "" H 3750 3150 60  0000 C CNN
 F 4 "" H 3750 3150 60  0001 C CNN "InternalName"
-F 5 "" H 3750 3150 60  0001 C CNN "Manufacturer No"
+F 5 "CL10A105KB8NNNC" H 3750 3150 60  0001 C CNN "Manufacturer No"
 F 6 "35V" H 3750 3150 60  0001 C CNN "Voltage"
 F 7 "" H 3750 3150 60  0001 C CNN "Source"
 F 8 "X5R" H 3750 3150 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C23630" H 3750 3150 50  0001 C CNN "LCSC"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "C15849" H 3750 3150 50  0001 C CNN "LCSC"
 	1    3750 3150
 	1    0    0    -1  
 $EndComp

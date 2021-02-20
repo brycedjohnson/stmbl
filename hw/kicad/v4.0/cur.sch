@@ -75,12 +75,12 @@ F 1 "18p" H 4725 3150 50  0000 L CNN
 F 2 "stmbl:C_0603" H 4738 3100 50  0001 C CNN
 F 3 "" H 4700 3250 50  0000 C CNN
 F 4 "" H 4700 3250 50  0001 C CNN "InternalName"
-F 5 "" H 4700 3250 50  0001 C CNN "Manufacturer No"
+F 5 "CL10C180JB8NNNC" H 4700 3250 50  0001 C CNN "Manufacturer No"
 F 6 "50V" H 4700 3250 50  0001 C CNN "Voltage"
 F 7 "" H 4700 3250 50  0001 C CNN "Source"
 F 8 "X5R" H 4700 3250 50  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C1647" H 4700 3250 50  0001 C CNN "LCSC"
 	1    4700 3250
 	1    0    0    -1  
@@ -165,12 +165,12 @@ F 1 "18p" H 5925 3150 50  0000 L CNN
 F 2 "stmbl:C_0603" H 5938 3100 50  0001 C CNN
 F 3 "" H 5900 3250 50  0000 C CNN
 F 4 "" H 5900 3250 50  0001 C CNN "InternalName"
-F 5 "" H 5900 3250 50  0001 C CNN "Manufacturer No"
+F 5 "CL10C180JB8NNNC" H 5900 3250 50  0001 C CNN "Manufacturer No"
 F 6 "50V" H 5900 3250 50  0001 C CNN "Voltage"
 F 7 "" H 5900 3250 50  0001 C CNN "Source"
 F 8 "X5R" H 5900 3250 50  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C1647" H 5900 3250 50  0001 C CNN "LCSC"
 	1    5900 3250
 	1    0    0    -1  
@@ -255,12 +255,12 @@ F 1 "18p" H 7125 3150 50  0000 L CNN
 F 2 "stmbl:C_0603" H 7138 3100 50  0001 C CNN
 F 3 "" H 7100 3250 50  0000 C CNN
 F 4 "" H 7100 3250 50  0001 C CNN "InternalName"
-F 5 "" H 7100 3250 50  0001 C CNN "Manufacturer No"
+F 5 "CL10C180JB8NNNC" H 7100 3250 50  0001 C CNN "Manufacturer No"
 F 6 "50V" H 7100 3250 50  0001 C CNN "Voltage"
 F 7 "" H 7100 3250 50  0001 C CNN "Source"
 F 8 "X5R" H 7100 3250 50  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
-F 10 "" H 0   0   50  0001 C CNN "Manufacturer"
+F 10 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
 F 11 "C1647" H 7100 3250 50  0001 C CNN "LCSC"
 	1    7100 3250
 	1    0    0    -1  

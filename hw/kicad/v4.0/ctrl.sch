@@ -236,6 +236,7 @@ F 7 "" H 0   0   50  0001 C CNN "Description"
 F 8 "" H 0   0   50  0001 C CNN "InternalName"
 F 9 "" H 0   0   50  0001 C CNN "Tolerance"
 F 10 "Molex" H 0   0   50  0001 C CNN "Manufacturer"
+F 11 "" H 1400 1750 50  0001 C CNN "LCSC"
 	1    1400 1750
 	-1   0    0    1   
 $EndComp
