@@ -90,3 +90,7 @@ hw/kicad/v4.0/doc/gerber/*
 hw/kicad/v4.0/doc/gerber.zip
 
 hw/kicad/v4.0/_autosave-stmbl_4.0.kicad_pcb
+hw/kicad/*/CMSIS/*
+hw/kicad/v4.0/doc/Drivers/*
+tools/gcc*
+
