@@ -47,7 +47,7 @@ F 7 "" H 4700 3700 50  0001 C CNN "Tolerance"
 F 8 "" H 4700 3700 60  0001 C CNN "InternalName"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "Abracon LLC" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C389778" H 4700 3700 50  0001 C CNN "LCSC"
+F 11 "C157341" H 4700 3700 50  0001 C CNN "LCSC"
 	1    4700 3700
 	0    1    1    0   
 $EndComp

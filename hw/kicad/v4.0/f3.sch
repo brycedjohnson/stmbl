@@ -137,7 +137,7 @@ F 7 "https://de.aliexpress.com/item/1LOT-10PCS-Crystal-8MHZ-20PF-20PPM-4P-5032-S
 F 8 "" H 8600 2150 60  0001 C CNN "Tolerance"
 F 9 "" H 0   0   50  0001 C CNN "Description"
 F 10 "Abracon LLC" H 0   0   50  0001 C CNN "Manufacturer"
-F 11 "C389778" H 8600 2150 50  0001 C CNN "LCSC"
+F 11 "C157341" H 8600 2150 50  0001 C CNN "LCSC"
 	1    8600 2150
 	0    1    1    0   
 $EndComp
